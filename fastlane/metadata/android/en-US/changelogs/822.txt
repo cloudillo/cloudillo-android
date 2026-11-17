@@ -1,0 +1,6 @@
+First release:
+- Cloudillo shell in a WebView with file upload, camera and microphone
+- Per-album photo/video backup with quality presets
+- Share files from other apps into Cloudillo
+- UnifiedPush notifications with catch-up polling, no Google services
+- cloudillo://open deep links

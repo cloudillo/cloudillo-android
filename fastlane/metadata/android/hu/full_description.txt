@@ -1,0 +1,12 @@
+<p>A Cloudillo decentralizált kollaborációs platform: fájlok, dokumentumok, üzenetek és közösségi funkciók a saját kontrollod alatt. Futtasd magad (a szerver, a cloudillo-rs szabad szoftver), vagy válassz egy szolgáltatót, akiben megbízol.</p>
+
+<p>Add meg egyszer az idTaged (például <i>alice.cloudillo.net</i>), és az alkalmazás megjeleníti a Cloudillo felületedet, natív Android-integrációval:</p>
+
+<ul>
+<li><b>Fotó- és videómentés</b> — válaszd ki, mely albumokat és hogyan akarod menteni: albumonkénti beállítások az eredeti minőségtől a helytakarékos mobil változatig. A mentés a háttérben fut.</li>
+<li><b>Megosztás a Cloudillóba</b> — küldj fájlokat bármely alkalmazásból közvetlenül egy Cloudillo mappába.</li>
+<li><b>Értesítések Google nélkül</b> — push értesítés UnifiedPush-on keresztül (bármely kézbesítővel, pl. ntfy), tartalékként időszakos ellenőrzéssel.</li>
+<li><b>Mélylinkek</b> — a <i>cloudillo://open</i> linkek a megfelelő oldalt nyitják meg az alkalmazásban.</li>
+</ul>
+
+<p>Nincs Google Play Services, nincs követés, nincsenek hirdetések. Az alkalmazás csak a saját Cloudillo csomópontoddal kommunikál.</p>

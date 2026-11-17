@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name" translatable="false">Cloudillo</string>
+	<string name="onboarding_title">Connect to Cloudillo</string>
+	<string name="onboarding_hint">Your idTag, e.g. alice.cloudillo.net</string>
+	<string name="onboarding_continue">Continue</string>
+	<string name="onboarding_checking">Checking…</string>
+	<string name="onboarding_invalid">This does not look like a valid idTag.</string>
+	<string name="onboarding_unreachable">Could not reach %1$s. Check the address and your connection.</string>
+	<string name="error_load">Could not load Cloudillo.</string>
+	<string name="retry">Retry</string>
+	<string name="no_app_for_link">No app found to open this link.</string>
+	<string name="backup_channel">Backup</string>
+	<string name="backup_title">Backing up to Cloudillo</string>
+	<string name="backup_progress">%1$d / %2$d</string>
+	<string name="share_title">Uploading to Cloudillo</string>
+	<string name="share_login_first">Log in first</string>
+	<string name="share_nothing">Nothing to upload</string>
+	<string name="share_failed">Upload failed: %1$s</string>
+	<plurals name="share_confirm">
+		<item quantity="one">Upload %1$d file to Cloudillo?</item>
+		<item quantity="other">Upload %1$d files to Cloudillo?</item>
+	</plurals>
+	<string name="share_upload">Upload</string>
+	<string name="capture_confirm">Allow %1$s to use the camera or microphone?</string>
+	<string name="capture_allow">Allow</string>
+	<string name="capture_deny">Deny</string>
+	<string name="notify_channel">Notifications</string>
+	<string name="notify_choose_distributor">Choose a notification distributor</string>
+</resources>

@@ -1,0 +1,13 @@
+<p>Cloudillo is a decentralized collaboration platform: files, documents, messaging and social features on a node you own. Run your own node (the server, cloudillo-rs, is free software) or use any provider you trust.</p>
+
+<p>Enter your idTag once (for example <i>alice.cloudillo.net</i>) and the app shows your Cloudillo shell, with native Android integration:</p>
+
+<ul>
+<li><b>Photo and video backup</b> — choose which albums to back up and how: per-album presets from full quality originals to space-saving mobile variants. Backups run in the background and resume after reboots or connection loss.</li>
+<li><b>Share to Cloudillo</b> — send files from any app straight into a Cloudillo folder.</li>
+<li><b>Notifications without Google</b> — push via UnifiedPush (any distributor, e.g. ntfy), with a periodic catch-up check as fallback.</li>
+<li><b>Uploads, camera and microphone</b> — attach files, take photos and join calls from the web apps.</li>
+<li><b>Deep links</b> — <i>cloudillo://open</i> links open the right page in the app.</li>
+</ul>
+
+<p>No Google Play Services, no tracking, no ads. The app only talks to your own Cloudillo node.</p>

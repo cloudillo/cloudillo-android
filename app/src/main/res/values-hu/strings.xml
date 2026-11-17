@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="onboarding_title">Csatlakozás a Cloudillóhoz</string>
+	<string name="onboarding_hint">Az idTaged, pl. alice.cloudillo.net</string>
+	<string name="onboarding_continue">Tovább</string>
+	<string name="onboarding_checking">Ellenőrzés…</string>
+	<string name="onboarding_invalid">Ez nem tűnik érvényes idTagnek.</string>
+	<string name="onboarding_unreachable">A(z) %1$s nem érhető el. Ellenőrizd a címet és a kapcsolatot.</string>
+	<string name="error_load">Nem sikerült betölteni a Cloudillót.</string>
+	<string name="retry">Újra</string>
+	<string name="no_app_for_link">Nincs alkalmazás a hivatkozás megnyitásához.</string>
+	<string name="backup_channel">Biztonsági mentés</string>
+	<string name="backup_title">Mentés a Cloudillóba</string>
+	<string name="backup_progress">%1$d / %2$d</string>
+	<string name="share_title">Feltöltés a Cloudillóba</string>
+	<string name="share_login_first">Előbb jelentkezz be</string>
+	<string name="share_nothing">Nincs mit feltölteni</string>
+	<string name="share_failed">A feltöltés sikertelen: %1$s</string>
+	<plurals name="share_confirm">
+		<item quantity="one">%1$d fájl feltöltése a Cloudillóba?</item>
+		<item quantity="other">%1$d fájl feltöltése a Cloudillóba?</item>
+	</plurals>
+	<string name="share_upload">Feltöltés</string>
+	<string name="capture_confirm">Engedélyezed, hogy a(z) %1$s használja a kamerát vagy a mikrofont?</string>
+	<string name="capture_allow">Engedélyezés</string>
+	<string name="capture_deny">Elutasítás</string>
+	<string name="notify_channel">Értesítések</string>
+	<string name="notify_choose_distributor">Válassz értesítéskézbesítő alkalmazást</string>
+</resources>

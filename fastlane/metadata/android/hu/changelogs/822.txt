@@ -1,0 +1,6 @@
+Első kiadás:
+- Cloudillo felület WebView-ban fájlfeltöltéssel, kamerával és mikrofonnal
+- Albumonkénti fotó-/videómentés minőségi beállításokkal
+- Fájlok megosztása más alkalmazásokból a Cloudillóba
+- UnifiedPush értesítések időszakos ellenőrzéssel, Google szolgáltatások nélkül
+- cloudillo://open mélylinkek
